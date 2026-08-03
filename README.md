@@ -15,11 +15,10 @@
 ### 🌟 About Me
 
 - 🎓 Rising senior at **UW-Madison**, double majoring in **Computer Science** & **Data Science**
-- 🔬 Student researcher at **WISCURDS**, building an AI confidence-level scoring tool for medical simulations
-- 🛡️ Building **Tripwire**, an AI agent red-teaming tool, through the **SAIL** program
-- 💡 Innovation Fellow at the **Tech Exploration Lab**, leading a commercialization ideathon
+- 🔬 Student researcher at **SimLab**, building an AI confidence-level scoring tool for medical simulations
+- 🛡️ Building **Tripwire**, an AI agent red-teaming tool, through the **Summer AI Lab** program
 - 🧑‍🏫 Mentoring Chair for **Women in ACM** & Student Tech Trainer at STS
-- 🐾 Certified cat person, 🏓 pickleball enthusiast, 📓 scrapbook-journal-app builder on the side
+- 🐾 Certified cat person, 🏓 badminton enthusiast, 📓 cute app builder on the side
 
 ---
 
