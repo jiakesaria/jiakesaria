@@ -1,14 +1,14 @@
 Readme · MD
-<h1 align="center"> Hi, I'm Jia >ᴗ< </h1> <p align="center"> <img src="./assets/coding.gif" width="400"> </p>
----
+<h1 align="center"> Hi, I'm Jia 👩🏻‍💻 </h1> <p align="center"> <img src="./assets/coding.gif" width="400"> </p>
+
 
 ### 🌟 About Me
 
-- 🎓 Rising senior at **UW-Madison**, double majoring in **Computer Science** & **Data Science**
-- 🔬 Student researcher at **SimLab**, building an AI confidence-level scoring tool for medical simulations
-- 🛡️ Building **Tripwire**, an AI agent red-teaming tool, through the **Summer AI Lab** program
-- 🧑‍🏫 Mentoring Chair for **Women in ACM** & Student Tech Trainer at STS
-- 🐾 Certified cat person, 🏓 badminton enthusiast, 📓 cute app builder on the side
+-  a rising senior at **uw-madison**, double majoring in **computer science** & **data science**. 
+-  a student researcher at **SimLab**, building an AI confidence-level scoring tool for medical simulations. 
+-  building **Tripwire**, an AI agent red-teaming tool, through the **Summer AI Lab** program
+-  mentoring chair for **Women in ACM** & Student Tech Trainer at STS
+-  Certified cat person, badminton enthusiast, i enjoy building cute app ideas on the side (๑•᎑•๑)
 
 ---
 
@@ -47,41 +47,6 @@ Readme · MD
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
-
----
-
-### 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h4>🛡️ Tripwire</h4>
-      <p>An AI agent red-teaming tool built through SAIL. Owns the LangGraph adapter layer and a PAIR-based iterative attacker, running on local Ollama/Llama models.</p>
-      <img src="https://img.shields.io/badge/status-active-brightgreen?style=flat-square"/>
-      <img src="https://img.shields.io/badge/stack-LangGraph%20%7C%20Ollama-blueviolet?style=flat-square"/>
-    </td>
-    <td width="50%">
-      <h4>🩺 SimLab CL Scoring</h4>
-      <p>WISCURDS research project building a confidence-level scoring framework for medical simulation transcripts using cosine similarity and NLI cross-encoders.</p>
-      <img src="https://img.shields.io/badge/status-research-blue?style=flat-square"/>
-      <img src="https://img.shields.io/badge/stack-NLI%20%7C%20Embeddings-blueviolet?style=flat-square"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h4>📓 Junk Journal App</h4>
-      <p>A whimsical, scrapbook-aesthetic journaling web app designed for students, with a notebook-overlay UI and custom style guides.</p>
-      <img src="https://img.shields.io/badge/status-in%20progress-yellow?style=flat-square"/>
-      <img src="https://img.shields.io/badge/stack-React%20%7C%20HTML%2FCSS-blueviolet?style=flat-square"/>
-    </td>
-    <td width="50%">
-      <h4>💡 TEL Ideathon: SGA-AR × ZaiNar</h4>
-      <p>Led a summer ideathon exploring commercialization paths for SGA-AR (spatial computing) and ZaiNar (RF-based indoor positioning).</p>
-      <img src="https://img.shields.io/badge/status-event-orange?style=flat-square"/>
-      <img src="https://img.shields.io/badge/role-lead-blueviolet?style=flat-square"/>
-    </td>
-  </tr>
-</table>
 
 ---
 
