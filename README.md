@@ -1,14 +1,20 @@
-Readme · MD
-<h1 align="center"> Hi, I'm Jia 👩🏻‍💻 </h1> <p align="center"> <img src="./assets/coding.gif" width="400"> </p>
+<h1 align="center">
+  Hi, I'm Jia 👩🏻‍💻
+</h1>
 
+<p align="center">
+  <img src="./assets/coding.gif" width="400">
+</p>
+
+---
 
 ### ⟡ About Me
 
--  a rising senior at **uw-madison**, double majoring in **computer science** & **data science**. 
--  a student researcher at **SimLab**, building an AI confidence-level scoring tool for medical simulations. 
--  building **Tripwire**, an AI agent red-teaming tool, through the **Summer AI Lab** program
--  mentoring chair for **Women in ACM** & Student Tech Trainer at STS
--  Certified cat person, badminton enthusiast, i enjoy building cute app ideas on the side (๑•᎑•๑)
+- a rising senior at **uw-madison**, double majoring in **computer science** & **data science**.
+- a student researcher at **SimLab**, building an AI confidence-level scoring tool for medical simulations.
+- building **Tripwire**, an AI agent red-teaming tool, through the **Summer AI Lab** program
+- mentoring chair for **Women in ACM** & Student Tech Trainer at STS
+- Certified cat person, badminton enthusiast, i enjoy building cute app ideas on the side (๑•᎑•๑)
 
 ---
 
@@ -50,15 +56,10 @@ Readme · MD
 
 ---
 
-### ⟡ GitHub Stats
+### ⟡ Contribution Snake
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true" width="49%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true" width="60%"/>
+  <img src="https://raw.githubusercontent.com/jiakesaria/jiakesaria/output/github-contribution-grid-snake.svg" width="100%"/>
 </p>
 
 ---
@@ -68,10 +69,10 @@ Readme · MD
 </p>
 
 <p align="center">
-  <i>Let's build something! Reach out 👇</i>
+  <i>Let's build something! Reach out ٩(ˊᗜˋ*)و </i>
 </p>
 
 <p align="center">
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:jiakesaria@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/jia-bhavesh-kesaria-154239314/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
