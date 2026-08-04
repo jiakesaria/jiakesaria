@@ -1,14 +1,5 @@
-<h1 align="center">
-  Hi, I'm Jia 👋
-</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=CS+%2B+Data+Science+%40+UW-Madison;Building+AI+agent+red-teaming+tools;Researcher+%40+WISCURDS;Cat+person+%F0%9F%90%B1+%7C+Pickleball+enjoyer+%F0%9F%8F%93" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
-</p>
+Readme · MD
+<h1 align="center"> Hi, I'm Jia 👩🏻‍💻 </h1> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=CS+%2B+Data+Science+%40+UW-Madison;Building+AI+agent+red-teaming+tools;Researcher+%40+WISCURDS;Cat+person+%F0%9F%90%B1+%7C+Badminton+enjoyer+%F0%9F%8F%93" alt="Typing SVG" /> </p> <p align="center"> <img src="./assets/coding.gif" width="400"> </p>
 
 ---
 
