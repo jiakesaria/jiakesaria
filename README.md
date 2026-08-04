@@ -2,7 +2,7 @@ Readme · MD
 <h1 align="center"> Hi, I'm Jia 👩🏻‍💻 </h1> <p align="center"> <img src="./assets/coding.gif" width="400"> </p>
 
 
-### 🌟 About Me
+### ⟡ About Me
 
 -  a rising senior at **uw-madison**, double majoring in **computer science** & **data science**. 
 -  a student researcher at **SimLab**, building an AI confidence-level scoring tool for medical simulations. 
@@ -12,7 +12,7 @@ Readme · MD
 
 ---
 
-### 🛠️ Skills & Tools
+### ⟡ Skills & Tools
 
 **Languages**
 <p>
@@ -50,7 +50,7 @@ Readme · MD
 
 ---
 
-### 📊 GitHub Stats
+### ⟡ GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true" width="49%"/>
